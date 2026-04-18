@@ -1,7 +1,7 @@
 {
     "servers": ["social.edu.nl", "fediscience.org", "akademienl.social", "mastodon.social"],
     "tags": [ "osflimburg" ],
-    "accounts": [ "oscmaastricht@social.edu.nl", "osflimburg@social.edu.nl"
+    "accounts": [ "osflimburg@social.edu.nl"
     ],
     "hideSensitive": true,
     "hideBots": false,
