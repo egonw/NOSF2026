@@ -1,14 +1,13 @@
 {
-    "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
-    "tags": [ "inosc" ],
-    "accounts": [ "oscu@akademienl.social", "oscgroningen@mastodon.social", "OSCMainz@fediscience.org", "oscmaastricht@social.edu.nl",
-      "OpenSciTwente@akademienl.social", "OpenSciNigeria@mastodon.social", "opensciencekiel@fediscience.org"
-     ],
+    "servers": ["social.edu.nl", "fediscience.org", "akademienl.social", "mastodon.social"],
+    "tags": [ "osflimburg" ],
+    "accounts": [ "oscmaastricht@social.edu.nl", "osflimburg@social.edu.nl"
+    ],
     "hideSensitive": true,
     "hideBots": false,
     "hideReplies": false,
     "limit": 20,
     "interval": 30,
-    "title": "INOSC - Fediwall",
+    "title": "Open Science Festival Limburg - Fediwall",
     "theme": "light"
 }
