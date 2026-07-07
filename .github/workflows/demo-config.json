@@ -1,13 +1,13 @@
 {
     "servers": ["social.edu.nl", "fediscience.org", "akademienl.social", "mastodon.social"],
-    "tags": [ "osflimburg" ],
-    "accounts": [ "osflimburg@social.edu.nl"
+    "tags": [ "NOSF2026" ],
+    "accounts": [ "@OSFNL@social.edu.nl"
     ],
     "hideSensitive": true,
     "hideBots": false,
     "hideReplies": false,
     "limit": 20,
     "interval": 30,
-    "title": "Open Science Festival Limburg - Fediwall",
+    "title": "National Open Science Festival 2026 - Fediwall",
     "theme": "light"
 }
