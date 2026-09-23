@@ -1,6 +1,6 @@
-# Open Science Festival Limburg Fediwall
+# Open Science Festival 2026 Fediwall
 
-This is a fork for the [Open Science Festival Limburg](https://www.openscience-maastricht.nl/events/open-science-festival-2026/).
+This is a fork of the [Open Science Festival Limburg](https://www.openscience-maastricht.nl/events/open-science-festival-2026/) repository.
 
 Below is the original README:
 
